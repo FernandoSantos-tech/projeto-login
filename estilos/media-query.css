@@ -15,7 +15,7 @@ Grandes telas: Acima de 1200px
     body{
         background-image: linear-gradient(to top, #112359, #1B1F26);
         background-attachment: scroll;
-        height: 100vh;
+        height: 100%;
     }
 
     section#login{
