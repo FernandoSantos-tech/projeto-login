@@ -18,7 +18,7 @@ Grandes telas: Acima de 1200px
 
     section#login{
         width: 80vw;
-        height: 75%;
+        height: 50%;
     }
 
     section#login > div#imagem{
@@ -38,12 +38,11 @@ Grandes telas: Acima de 1200px
 @media screen and (min-width: 992px) {
     body{
         background-image: linear-gradient(to top, #112359, #1B1F26);
-        background-attachment: fixed;
     }
 
     section#login{
-        width: 990px;
-        height: 80%;
+        width: 880px;
+        height: 70%;
     }
 
     section#login > div#imagem{
